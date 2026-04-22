@@ -1,21 +1,32 @@
 # Hi, I'm Gowri 👋
 
-💻 Java Backend Developer
-🚀 Passionate about building scalable backend systems
+Java Backend Developer focused on building scalable and efficient backend systems.
 
-## 🔧 Tech Stack
+---
 
-* Java, Spring Boot
-* REST APIs
-* MySQL (JDBC)
-* HTML, CSS, JavaScript
+## 🛠 Technical Skills
+
+* Programming: Java, Python, C
+* Backend Development: Spring Boot, REST APIs
+* Database: MySQL (JDBC, CRUD Operations)
+* Web: HTML, CSS, JavaScript
+* Tools: Git, GitHub, Postman, VS Code
+
+---
 
 ## 📌 Projects
 
-* Student Productivity & Placement Tracker (Spring Boot + REST APIs)
-* EcoBazaarX – Sustainability-based recommendation system
-* Offline Orbit – LAN Messaging App (Sockets, Multithreading)
+**Student Productivity & Placement Tracker**
+Java Spring Boot backend with REST APIs, layered architecture, and MySQL integration
 
-## 📫 Connect with me
+**EcoBazaarX**
+Data-driven backend system for sustainability analysis and recommendation logic
 
-* LinkedIn: https://linkedin.com/in/gowri-sreepadhi
+**Offline Orbit – LAN Messaging Application**
+Java-based messaging system using sockets and multithreading
+
+---
+
+## 🔗 Contact
+
+LinkedIn: https://linkedin.com/in/gowri-sreepadhi
