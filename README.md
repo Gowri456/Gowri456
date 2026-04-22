@@ -2,7 +2,6 @@
 
 Java Backend Developer focused on building scalable and efficient backend systems.
 
----
 
 ## 🛠 Technical Skills
 
@@ -12,7 +11,7 @@ Java Backend Developer focused on building scalable and efficient backend system
 * Web: HTML, CSS, JavaScript
 * Tools: Git, GitHub, Postman, VS Code
 
----
+
 
 ## 📌 Projects
 
@@ -25,7 +24,7 @@ Data-driven backend system for sustainability analysis and recommendation logic
 **Offline Orbit – LAN Messaging Application**
 Java-based messaging system using sockets and multithreading
 
----
+
 
 ## 🔗 Contact
 
